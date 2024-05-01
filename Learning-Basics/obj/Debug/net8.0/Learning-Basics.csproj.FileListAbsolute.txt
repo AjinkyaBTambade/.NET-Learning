@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\bin\Debug\net8.0\Learning-Basics.exe
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\bin\Debug\net8.0\Learning-Basics.deps.json
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\bin\Debug\net8.0\Learning-Basics.runtimeconfig.json
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\bin\Debug\net8.0\Learning-Basics.dll
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\bin\Debug\net8.0\Learning-Basics.pdb
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\obj\Debug\net8.0\Learning-Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\obj\Debug\net8.0\Learning-Basics.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\obj\Debug\net8.0\Learning-Basics.AssemblyInfo.cs
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\obj\Debug\net8.0\Learning-Basics.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\obj\Debug\net8.0\Learning-Basics.sourcelink.json
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\obj\Debug\net8.0\Learning-Basics.dll
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\obj\Debug\net8.0\refint\Learning-Basics.dll
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\obj\Debug\net8.0\Learning-Basics.pdb
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\obj\Debug\net8.0\Learning-Basics.genruntimeconfig.cache
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\Learning-Basics\obj\Debug\net8.0\ref\Learning-Basics.dll

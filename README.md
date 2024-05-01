@@ -80,3 +80,5 @@ You can use Xamarin for desktop application development. Additionally, Universal
 
 ### Other applications
 With ML.NET, you can develop and integrate custom machine learning models into your .NET applications. You can use .NET IoT Libraries to develop applications on sensors and other smart devices. For any solutions not available in the frameworks, you can find many specific function libraries on the public NuGet repository. You can use Nuget to create, share, and use many .NET libraries for almost any purpose.
+
+
