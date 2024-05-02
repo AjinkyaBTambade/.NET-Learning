@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dictonary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+868818152b970b52b0d6e5f67408996e935ae6f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd2bfcc838d516f7e0a13b7b3346db00124cb22e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dictonary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dictonary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
