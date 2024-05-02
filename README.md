@@ -82,3 +82,77 @@ You can use Xamarin for desktop application development. Additionally, Universal
 With ML.NET, you can develop and integrate custom machine learning models into your .NET applications. You can use .NET IoT Libraries to develop applications on sensors and other smart devices. For any solutions not available in the frameworks, you can find many specific function libraries on the public NuGet repository. You can use Nuget to create, share, and use many .NET libraries for almost any purpose.
 
 
+# NET Collection Framework
+
+A collection is a set of related objects. Unlike arrays, a collection can grow and shrink dynamically as the number of objects added or deleted. A collection is a class, so you must declare a new collection before you can add elements to that collection.
+
+Many applications need the creation and management of groups of linked items. Items may be grouped in two ways: by generating arrays of objects or collections of objects. In terms of Data Structures, collections mimic the Array Data Structures; the main difference is that, unlike arrays, collections do not require a minimum size to be specified.
+
+C# collections are made to more effectively organize, store, and modify comparable data. Adding, deleting, discovering, and inserting data into the collection are all examples of data manipulation. These classes support stacks, queues, lists, and hash tables. Most collection classes implement the same interfaces.
+
+
+### Arrays
+
+Like other programming languages, array in C# is a group of similar types of elements that have contiguous memory location. In C#, array is an object of base type System.Array. In C#, array index starts from 0. We can store only fixed set of elements in C# array.
+
+#### Advantages of Arrays
+- Code Optimization (less code)
+- Random Access
+- Easy to traverse data
+- Easy to manipulate data
+- Easy to sort data etc.
+
+
+
+#### C# Array Types
+There are 3 types of arrays in C# programming:
+- Single Dimensional Array
+- Multidimensional Array
+
+
+## Generic Collections
+
+Generic collections in C# are data structures that can hold a collection of elements of any data type, providing type safety and performance benefits. They are part of the System.Collections.Generic namespace in the .NET Framework and provide several types of collections, each with its own characteristics and use cases. Here are some common types of generic collections:
+
+**List<T>:**
+Represents a strongly-typed list of objects.
+Allows dynamic resizing, adding, and removing elements.
+Implemented as a resizable array.
+Provides indexed access to elements.
+
+**Dictionary<TKey, TValue>:**
+Represents a collection of key-value pairs where each key is unique.
+Provides fast lookup by key.
+Implemented as a hash table.
+Useful for storing mappings or associations between keys and values.
+
+**HashSet<T>:**
+Represents a set of unique elements.
+Does not allow duplicate elements.
+Implemented using a hash table.
+Provides operations for set operations such as union, intersection, and difference.
+
+**Queue<T>:**
+Represents a first-in, first-out (FIFO) collection of objects.
+Allows adding elements at the end (enqueue) and removing elements from the beginning (dequeue).
+Implemented using a linked list or array.
+
+**Stack<T>:**
+Represents a last-in, first-out (LIFO) collection of objects.
+Allows adding elements at the top (push) and removing elements from the top (pop).
+Implemented using a linked list or array.
+
+**LinkedList<T>:**
+Represents a doubly linked list of elements.
+Allows fast insertion and deletion of elements at any position.
+Suitable for scenarios where frequent insertion or removal of elements in the middle of the list is required.
+
+**SortedSet<T>:**
+Represents a sorted collection of unique elements.
+Automatically maintains elements in sorted order.
+Implemented using a red-black tree.
+
+**SortedDictionary<TKey, TValue>:**
+Represents a collection of key-value pairs sorted by keys.
+Provides fast lookup, insertion, and removal of elements based on key values.
+Implemented using a red-black tree.
