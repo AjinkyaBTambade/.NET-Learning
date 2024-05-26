@@ -82,7 +82,7 @@ You can use Xamarin for desktop application development. Additionally, Universal
 With ML.NET, you can develop and integrate custom machine learning models into your .NET applications. You can use .NET IoT Libraries to develop applications on sensors and other smart devices. For any solutions not available in the frameworks, you can find many specific function libraries on the public NuGet repository. You can use Nuget to create, share, and use many .NET libraries for almost any purpose.
 
 
-# NET Collection Framework
+# .NET Collection Framework
 
 A collection is a set of related objects. Unlike arrays, a collection can grow and shrink dynamically as the number of objects added or deleted. A collection is a class, so you must declare a new collection before you can add elements to that collection.
 
