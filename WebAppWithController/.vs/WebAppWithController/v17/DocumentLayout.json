@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2091401-7C81-4B94-BF65-62BD5418A185}|WebAppWithController\\WebAppWithController.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\webappwithcontroller\\webappwithcontroller\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2091401-7C81-4B94-BF65-62BD5418A185}|WebAppWithController\\WebAppWithController.csproj|solutionrelative:webappwithcontroller\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2091401-7C81-4B94-BF65-62BD5418A185}|WebAppWithController\\WebAppWithController.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\webappwithcontroller\\webappwithcontroller\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2091401-7C81-4B94-BF65-62BD5418A185}|WebAppWithController\\WebAppWithController.csproj|solutionrelative:webappwithcontroller\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2091401-7C81-4B94-BF65-62BD5418A185}|WebAppWithController\\WebAppWithController.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\webappwithcontroller\\webappwithcontroller\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2091401-7C81-4B94-BF65-62BD5418A185}|WebAppWithController\\WebAppWithController.csproj|solutionrelative:webappwithcontroller\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2091401-7C81-4B94-BF65-62BD5418A185}|WebAppWithController\\WebAppWithController.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\webappwithcontroller\\webappwithcontroller\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2091401-7C81-4B94-BF65-62BD5418A185}|WebAppWithController\\WebAppWithController.csproj|solutionrelative:webappwithcontroller\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2091401-7C81-4B94-BF65-62BD5418A185}|WebAppWithController\\WebAppWithController.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\webappwithcontroller\\webappwithcontroller\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2091401-7C81-4B94-BF65-62BD5418A185}|WebAppWithController\\WebAppWithController.csproj|solutionrelative:webappwithcontroller\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "WebAppWithController\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\Entities\\Post.cs",
+              "RelativeToolTip": "WebAppWithController\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:59:09.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "WebAppWithController\\Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\Entities\\Blog.cs",
+              "RelativeToolTip": "WebAppWithController\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:58:50.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "WebAppWithController\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\Entities\\Product.cs",
+              "RelativeToolTip": "WebAppWithController\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:58:40.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "WebAppWithController\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "WebAppWithController\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:57:12.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAppWithController\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAppWithController\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:56:39.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
