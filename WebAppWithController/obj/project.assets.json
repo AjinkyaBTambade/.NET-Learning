@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\WebAppWithController.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController.csproj",
       "projectName": "WebAppWithController",
-      "projectPath": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\WebAppWithController.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\WebAppWithController\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\WebAppWithController\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
