@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TFLECommerce_May2024/1.0.0": {
+        "runtime": {
+          "TFLECommerce_May2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TFLECommerce_May2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
