@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\bin\Debug\net8.0\Single-Dimensional-Arrays.exe
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\bin\Debug\net8.0\Single-Dimensional-Arrays.deps.json
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\bin\Debug\net8.0\Single-Dimensional-Arrays.runtimeconfig.json
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\bin\Debug\net8.0\Single-Dimensional-Arrays.dll
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\bin\Debug\net8.0\Single-Dimensional-Arrays.pdb
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\obj\Debug\net8.0\Single-Dimensional-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\obj\Debug\net8.0\Single-Dimensional-Arrays.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\obj\Debug\net8.0\Single-Dimensional-Arrays.AssemblyInfo.cs
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\obj\Debug\net8.0\Single-Dimensional-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\obj\Debug\net8.0\Single-Dimensional-Arrays.sourcelink.json
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\obj\Debug\net8.0\Single-Dimensional-Arrays.dll
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\obj\Debug\net8.0\refint\Single-Dimensional-Arrays.dll
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\obj\Debug\net8.0\Single-Dimensional-Arrays.pdb
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\obj\Debug\net8.0\Single-Dimensional-Arrays.genruntimeconfig.cache
+C:\Users\admin\Desktop\Github Repo\.NET-Learning\CollectionFramework\Arrays\Single-Dimensional-Arrays\obj\Debug\net8.0\ref\Single-Dimensional-Arrays.dll
