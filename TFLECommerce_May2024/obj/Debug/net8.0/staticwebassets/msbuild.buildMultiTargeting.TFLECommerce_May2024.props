@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\TFLECommerce_May2024.props" />
-</Project>
