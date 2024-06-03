@@ -15,27 +15,66 @@ namespace MVCWebApp.Controllers
         }
 
         //CRUD Operation Action Methods
+
+         [HttpGet]
         public IActionResult Index()
         {
             List<Product> products = _productService.GetAll();
             ViewData["products"] = products;
             return View();
         }
+
+        [HttpGet]
         public IActionResult Details(int id)
         {
             var product = _productService.GetById(id);
             ViewData["SingleProduct"]=product;
             return View();
         }
+
+
         public IActionResult Remove(int id)
         {
             _productService.Remove(id);
             return RedirectToAction("Index");
         }
-        public IActionResult Update(int id, Product product)
+
+
+        [HttpGet]
+        public IActionResult Insert()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Insert(Product product)
+        {
+            _productService.Insert(product);
+            return RedirectToAction("ShowAll");
+        }
+
+        [HttpGet]
+        public IActionResult Update(int id)
+        {
+            var product = _productService.GetById(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            return View(product);
+        }
+
+        [HttpPost]
+        public IActionResult Update(Product product)
         {
             _productService.Update(product);
             return RedirectToAction("Index");
+        }
+
+        public IActionResult ShowAll()
+        {
+            var products = _productService.GetAll();
+            return View(products);
         }
     }
 }

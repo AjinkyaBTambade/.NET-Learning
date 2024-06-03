@@ -1,0 +1,31 @@
+﻿@model MVCWebApp.Models.Product
+
+@{
+    ViewData["Title"] = "Insert Product";
+}
+
+<h2>Insert Product</h2>
+
+<form asp-action="Insert" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Insert</button>
+</form>
+
+<div>
+    <a asp-action="ShowAll">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
