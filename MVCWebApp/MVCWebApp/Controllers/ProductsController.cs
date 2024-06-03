@@ -32,7 +32,7 @@ namespace MVCWebApp.Controllers
             return View();
         }
 
-
+        [HttpGet]
         public IActionResult Remove(int id)
         {
             _productService.Remove(id);
@@ -71,6 +71,7 @@ namespace MVCWebApp.Controllers
             return RedirectToAction("Index");
         }
 
+        [HttpGet]
         public IActionResult ShowAll()
         {
             var products = _productService.GetAll();
