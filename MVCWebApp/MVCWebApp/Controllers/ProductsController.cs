@@ -14,9 +14,9 @@ namespace MVCWebApp.Controllers
             _productService = service;
         }
 
-        //CRUD Operation Action Methods
-
-         [HttpGet]
+        //CRUD Operation Action Method
+       
+        [HttpGet]
         public IActionResult Index()
         {
             List<Product> products = _productService.GetAll();

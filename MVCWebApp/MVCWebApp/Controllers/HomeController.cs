@@ -13,7 +13,23 @@ namespace MVCWebApp.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Login(Claim claim)
+        {
+            Console.WriteLine(claim.Email + " " + claim.Password);
+            if (claim.Email == "aj@gmail.com" && claim.Password == "ajinkya")
+            {
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+    public IActionResult Index()
         {
             return View();
         }
