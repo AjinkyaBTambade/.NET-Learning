@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcwebapp\\mvcwebappdb\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|solutionrelative:mvcwebappdb\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcwebapp\\mvcwebappdb\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|solutionrelative:mvcwebappdb\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcwebapp\\mvcwebappdb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|solutionrelative:mvcwebappdb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcwebapp\\mvcwebappdb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|solutionrelative:mvcwebappdb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcwebapp\\mvcwebappdb\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|solutionrelative:mvcwebappdb\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcwebapp\\mvcwebappdb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{13018585-5BA6-4705-B816-5D27FE7F8D6F}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcwebapp\\mvcwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13018585-5BA6-4705-B816-5D27FE7F8D6F}|MVCWebApp\\MVCWebApp.csproj|solutionrelative:mvcwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcwebapp\\mvcwebappdb\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB7B48A6-1F75-4B03-A0C6-8DFDAC0573DD}|MVCWebAppDB\\MVCWebAppDB.csproj|solutionrelative:mvcwebappdb\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13018585-5BA6-4705-B816-5D27FE7F8D6F}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcwebapp\\mvcwebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "MVCWebAppDB\\Views\\Account\\Register.cshtml",
@@ -162,12 +162,11 @@
               "RelativeToolTip": "MVCWebAppDB\\Views\\Account\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T03:44:53.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T03:44:53.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCWebAppDB\\Views\\Shared\\_Layout.cshtml",
@@ -175,12 +174,11 @@
               "RelativeToolTip": "MVCWebAppDB\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T03:24:22.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T03:24:22.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MVCWebAppDB\\Controllers\\AccountController.cs",
@@ -193,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCWebAppDB\\Views\\Home\\Index.cshtml",
@@ -201,12 +199,11 @@
               "RelativeToolTip": "MVCWebAppDB\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T05:42:37.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T05:42:37.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "MVCWebAppDB\\Views\\Account\\Login.cshtml",
@@ -214,38 +211,37 @@
               "RelativeToolTip": "MVCWebAppDB\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T03:44:33.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T03:44:33.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "MVCWebAppDB\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "MVCWebAppDB\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T11:59:55.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Style.css",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\wwwroot\\css\\Style.css",
               "RelativeDocumentMoniker": "MVCWebAppDB\\wwwroot\\css\\Style.css",
               "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\wwwroot\\css\\Style.css",
               "RelativeToolTip": "MVCWebAppDB\\wwwroot\\css\\Style.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-06-05T04:09:23.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "MVCWebAppDB\\Models\\Employee.cs",
@@ -253,12 +249,11 @@
               "RelativeToolTip": "MVCWebAppDB\\Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:50:58.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T11:50:58.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Models\\User.cs",
               "RelativeDocumentMoniker": "MVCWebAppDB\\Models\\User.cs",
@@ -266,12 +261,11 @@
               "RelativeToolTip": "MVCWebAppDB\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:40:03.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T03:40:03.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebApp\\Program.cs",
               "RelativeDocumentMoniker": "MVCWebApp\\Program.cs",
@@ -279,12 +273,11 @@
               "RelativeToolTip": "MVCWebApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T06:16:31.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T06:16:31.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Program.cs",
               "RelativeDocumentMoniker": "MVCWebAppDB\\Program.cs",
@@ -292,8 +285,7 @@
               "RelativeToolTip": "MVCWebAppDB\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:36:36.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T11:36:36.528Z"
             },
             {
               "$type": "Document",
@@ -305,8 +297,7 @@
               "RelativeToolTip": "MVCWebAppDB\\Views\\Employee\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T05:26:21.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T05:26:21.04Z"
             },
             {
               "$type": "Document",
@@ -318,12 +309,11 @@
               "RelativeToolTip": "MVCWebAppDB\\Views\\Employee\\Insert.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T05:29:08.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T05:29:08.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "MVCWebAppDB\\Repositories\\UserRepository.cs",
@@ -331,12 +321,11 @@
               "RelativeToolTip": "MVCWebAppDB\\Repositories\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:41:05.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T03:41:05.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCWebApp\\Controllers\\HomeController.cs",
@@ -344,8 +333,7 @@
               "RelativeToolTip": "MVCWebApp\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAzwBUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T09:02:58.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T09:02:58.3Z"
             },
             {
               "$type": "Document",
@@ -357,8 +345,7 @@
               "RelativeToolTip": "MVCWebAppDB\\Views\\Employee\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T05:28:07.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T05:28:07.711Z"
             },
             {
               "$type": "Document",
@@ -382,8 +369,7 @@
               "RelativeToolTip": "MVCWebAppDB\\Repositories\\EmployeeRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T11:41:06.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T11:41:06.103Z"
             },
             {
               "$type": "Document",
@@ -395,8 +381,7 @@
               "RelativeToolTip": "MVCWebApp\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T06:30:56.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T06:30:56.363Z"
             },
             {
               "$type": "Document",
@@ -408,8 +393,7 @@
               "RelativeToolTip": "MVCWebApp\\Views\\Home\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T08:57:27.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T08:57:27.427Z"
             },
             {
               "$type": "Document",
@@ -433,8 +417,7 @@
               "RelativeToolTip": "MVCWebAppDB\\Views\\Employee\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T05:29:53.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T05:29:53.082Z"
             },
             {
               "$type": "Document",

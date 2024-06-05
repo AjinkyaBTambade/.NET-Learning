@@ -1,94 +1,83 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using MVCWebAppDB.Data;
 using MVCWebAppDB.Models;
 using MVCWebAppDB.Repositories;
+using System.Collections.Generic;
 
 namespace MVCWebAppDB.Controllers
 {
     public class EmployeeController : Controller
     {
-            public IActionResult Index()
+        private readonly EmployeeRepository _repo;
+
+        public EmployeeController(MVCWebAppDBContext context)
+        {
+            _repo = new EmployeeRepository(context);
+        }
+
+        public IActionResult Index()
+        {
+            List<Employee> employees = _repo.GetAll();
+            ViewData["allEmployees"] = employees;
+            return View();
+        }
+
+        public IActionResult Details(int id)
+        {
+            Employee emp = _repo.Details(id);
+            ViewData["SingleEmployee"] = emp;
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Insert()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Insert(Employee employee)
+        {
+            if (ModelState.IsValid)
             {
-                using (MVCWebAppDBContext _context = new MVCWebAppDBContext())
+                bool status = _repo.Insert(employee);
+                if (status)
                 {
-                    EmployeeRepository repo = new EmployeeRepository(_context);
-                    List<Employee> employees = repo.GetAll();
-                    ViewData["allEmployees"] = employees;
+                    return RedirectToAction("Index");
                 }
-                return View();
             }
-            public IActionResult Details(int id)
+            return View(employee);
+        }
+
+        [HttpGet]
+        public IActionResult Update(int id)
+        {
+            Employee employee = _repo.Details(id);
+            if (employee == null)
             {
-                using (MVCWebAppDBContext _context = new MVCWebAppDBContext())
+                return NotFound();
+            }
+            return View(employee);
+        }
+
+        [HttpPost]
+        public IActionResult Update(Employee employee)
+        {
+            if (ModelState.IsValid)
+            {
+                bool status = _repo.Update(employee);
+                if (status)
                 {
-                    EmployeeRepository repo = new EmployeeRepository(_context);
-                    List<Employee> employees = repo.GetAll();
-                    Employee emp = employees.Find(x => x.Id == id);
-
-                    ViewData["SingleEmployee"] = emp;
+                    return RedirectToAction("Index");
                 }
-                return View();
             }
+            return View(employee);
+        }
 
-            [HttpGet]
-            public IActionResult Insert()
-            {
-                return View();
-            }
-            [HttpPost]
-            public IActionResult Insert(Employee employee)
-            {
-                Console.WriteLine(employee.Name);
-                using (MVCWebAppDBContext _context = new MVCWebAppDBContext())
-                {
-                    EmployeeRepository repo = new EmployeeRepository(_context);
-                    bool status = repo.Insert(employee);
-
-                    Console.WriteLine(status);
-                }
-                return RedirectToAction("Index");
-            }
-
-            [HttpGet]
-            public IActionResult Update(int id)
-            {
-                using (MVCWebAppDBContext _context = new MVCWebAppDBContext())
-                {
-                    EmployeeRepository repo = new EmployeeRepository(_context);
-
-
-                    Employee employee = repo.Details(id);
-                    return View(employee);
-
-
-                }
-                //return View(employee);
-            }
-            [HttpPost]
-            public IActionResult Update(Employee employee)
-            {
-                Console.WriteLine($"{employee.Name}");
-                using (MVCWebAppDBContext _context = new MVCWebAppDBContext())
-                {
-                    EmployeeRepository repo = new EmployeeRepository(_context);
-                    bool status = repo.Update(employee);
-
-                    Console.WriteLine(status);
-                }
-                return RedirectToAction("Index");
-            }
-            public IActionResult Remove(int id)
-            {
-                using (MVCWebAppDBContext _context = new MVCWebAppDBContext())
-                {
-                    EmployeeRepository repo = new EmployeeRepository(_context);
-                    bool status = repo.Remove(id);
-
-                }
-                return RedirectToAction("Index");
-            }
-
-
+        public IActionResult Remove(int id)
+        {
+            bool status = _repo.Remove(id);
+            return RedirectToAction("Index");
         }
     }
+}

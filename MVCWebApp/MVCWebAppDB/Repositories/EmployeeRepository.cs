@@ -22,11 +22,8 @@ namespace MVCWebAppDB.Repositories
         }
         public Employee Details(int id)
         {
-
             Employee empDetails = _context.Employees.FirstOrDefault(emp => emp.Id == id);
-
             return empDetails;
-
         }
         public bool Remove(int id)
         {
