@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OTpB1tgiIq5Pv5g10cFFolj5ZJY/GPAfYqOAKjTjXUQ=",
+  "Hash": "tQK3EJGmaUOdXB2151+wo77Y75PG65IvaID2aAVJbvk=",
   "Source": "MVCWebAppDB",
   "BasePath": "_content/MVCWebAppDB",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\wwwroot\\css\\Style.css",
+      "SourceId": "MVCWebAppDB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\wwwroot\\",
+      "BasePath": "_content/MVCWebAppDB",
+      "RelativePath": "css/Style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Style.css"
     },
     {
       "Identity": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MVCWebApp\\MVCWebAppDB\\wwwroot\\favicon.ico",
