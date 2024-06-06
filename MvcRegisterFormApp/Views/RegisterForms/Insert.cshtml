@@ -1,0 +1,67 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form method="post" action="Add">
+    <div>
+        <div class="mb-3">
+            <label for="" class="form-label">Id</label>
+            <input type="text" class="form-control" name="Id" id="Id">
+
+        </div>
+        <div class="mb-3">
+            <label for="" class="form-label">Name</label>
+            <input type="text" class="form-control" name="Name" id="Name">
+
+        </div>
+        <div class="mb-3">
+            <label for="" class="form-label">Select Qualification</label>
+            <select name="qualification" id="qualification">
+                <option value="BE">BE</option>
+                <option value="BcS">BcS</option>
+                <option value="BSc">BSc</option>
+                <option value="BTech">BTech</option>
+            </select>
+
+        </div>
+        <div class="mb-3">
+            <label for="" class="form-label">Select Gender : </label>
+            <input type="radio" id="male" name="gender" value="Male">
+            <label for="male">Male</label><br>
+            <input type="radio" id="female" name="gender" value="Female">
+            <label for="female">Female</label><br>
+            <input type="radio" id="ohter" name="gender" value="Other">
+            <label for="other">Other</label>
+
+        </div>
+        <div class="mb-3">
+            <label for="" class="form-label">Select Language : </label>
+            <input type="checkbox" id="marathi" name="marathi" value="Marathi">
+            <label for="marathi"> Marathi</label><br>
+            <input type="checkbox" id="english" name="english" value="English">
+            <label for="english"> English</label><br>
+            <input type="checkbox" id="hindi" name="hindi" value="Hindi">
+            <label for="hindi"> Hindi</label><br><br>
+
+        </div>
+       
+        <div class="mb-3">
+            <label for="" class="form-label">Select City</label>
+            <select name="city" id="city">
+                <option value="Pune">Pune</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="Banglore">Banglore</option>
+                <option value="Delhi">Delhi</option>
+            </select>
+
+        </div>
+       
+       
+
+        <div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            @* <input type="button" action="submit" value="Submit"/> *@
+        </div>
+    </div>
+</form>

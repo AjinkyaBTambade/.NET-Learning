@@ -1,0 +1,58 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+
+<h1>Register List</h1>
+
+<p><a href="/RegisterForms/Insert">Create New</a> </p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <label>Id</label>
+            </th>
+            <th>
+                <label>Name</label>
+            </th>
+            <th>  <label>City</label></th>
+            <th> <label>Gender</label></th>
+            <th> <label>Qualification</label></th>
+            <th> <label>Language</label></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @{
+            List<RegisterForm> allForms = (List<RegisterForm>)ViewData["list"];
+        }
+        @foreach (var item in allForms)
+        {
+            <tr>
+                <td>
+                    <p> @item.Id</p>
+                </td>
+                <td>
+                    <p> @item.Name </p>
+                </td>
+                <td>
+                    <p> @item.City </p>
+                </td>
+
+                <td>
+                    <p> @item.Gender </p>
+                </td>
+
+                <td>
+                    <p> @item.Qualification </p>
+                </td>
+                <td>
+                    <p> @item.Languages </p>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
