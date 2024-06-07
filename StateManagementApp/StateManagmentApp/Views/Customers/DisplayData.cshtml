@@ -1,0 +1,22 @@
+﻿@model Customer
+
+@{
+    ViewData["Title"] = "Display Data";
+}
+
+<h2>Registered Customer Data</h2>
+<p>Code: @Model.Code</p>
+<p>Name: @Model.Name</p>
+<h6>Selected Organizations</h6>
+<ul>
+    @foreach (var org in Model.OrgList)
+    {
+        if (org.Selected)
+        {
+            <li>@org.Text</li>
+        }
+    }
+</ul>
+
+
+<a href="/customers/register">Back to Registration</a>

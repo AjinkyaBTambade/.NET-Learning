@@ -1,8 +1,0 @@
-C:\Users\admin\Desktop\Github Repo\.NET-Learning\StateManagementApp\StateManagementApp\obj\Debug\net8.0\StateManagementApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\admin\Desktop\Github Repo\.NET-Learning\StateManagementApp\StateManagementApp\obj\Debug\net8.0\StateManagementApp.AssemblyInfoInputs.cache
-C:\Users\admin\Desktop\Github Repo\.NET-Learning\StateManagementApp\StateManagementApp\obj\Debug\net8.0\StateManagementApp.AssemblyInfo.cs
-C:\Users\admin\Desktop\Github Repo\.NET-Learning\StateManagementApp\StateManagementApp\obj\Debug\net8.0\StateManagementApp.csproj.CoreCompileInputs.cache
-C:\Users\admin\Desktop\Github Repo\.NET-Learning\StateManagementApp\StateManagementApp\obj\Debug\net8.0\StateManagementApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\admin\Desktop\Github Repo\.NET-Learning\StateManagementApp\StateManagementApp\obj\Debug\net8.0\StateManagementApp.RazorAssemblyInfo.cache
-C:\Users\admin\Desktop\Github Repo\.NET-Learning\StateManagementApp\StateManagementApp\obj\Debug\net8.0\StateManagementApp.RazorAssemblyInfo.cs
-C:\Users\admin\Desktop\Github Repo\.NET-Learning\StateManagementApp\StateManagementApp\obj\Debug\net8.0\StateManagementApp.sourcelink.json

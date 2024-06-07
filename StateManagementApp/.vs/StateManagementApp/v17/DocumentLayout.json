@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,8 +11,28 @@
       "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\statemanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\statemanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagementapp\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9F1CD6-95E2-4ECE-9843-64B2B9160E64}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +42,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Services.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Views\\Home\\Services.cshtml",
-              "RelativeDocumentMoniker": "StateManagementApp\\Views\\Home\\Services.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Views\\Home\\Services.cshtml",
-              "RelativeToolTip": "StateManagementApp\\Views\\Home\\Services.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T16:55:16.687Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "StateManagementApp\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:41:23.439Z",
+              "DocumentIndex": 2,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "StateManagementApp\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "StateManagementApp\\Views\\Home\\Services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T09:32:35.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AboutUs.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Views\\Home\\AboutUs.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\Home\\AboutUs.cshtml",
@@ -85,15 +76,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StateManagementApp\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Models\\Student.cs",
               "RelativeToolTip": "StateManagementApp\\Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T16:56:35.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateManagementApp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\StateManagementApp.csproj",
+              "RelativeDocumentMoniker": "StateManagementApp\\StateManagementApp.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\StateManagementApp.csproj",
+              "RelativeToolTip": "StateManagementApp\\StateManagementApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T04:00:08.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StateManagementApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:46:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "StateManagementApp\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:41:23.439Z",
               "EditorCaption": ""
             },
             {
@@ -111,20 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "StateManagementApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwCkAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:46:11.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagementApp\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "StateManagementApp\\Models\\Cart.cs",
