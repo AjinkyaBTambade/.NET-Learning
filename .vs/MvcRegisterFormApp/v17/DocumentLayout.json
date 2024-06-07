@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5E01F93-7FC5-45C9-9A52-6FEA2E61E09B}|MvcRegisterFormApp\\MvcRegisterFormApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcregisterformapp\\datacontext\\dbcontextregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E01F93-7FC5-45C9-9A52-6FEA2E61E09B}|MvcRegisterFormApp\\MvcRegisterFormApp.csproj|solutionrelative:mvcregisterformapp\\datacontext\\dbcontextregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5E01F93-7FC5-45C9-9A52-6FEA2E61E09B}|MvcRegisterFormApp\\MvcRegisterFormApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\mvcregisterformapp\\views\\registerforms\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5E01F93-7FC5-45C9-9A52-6FEA2E61E09B}|MvcRegisterFormApp\\MvcRegisterFormApp.csproj|solutionrelative:mvcregisterformapp\\views\\registerforms\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -34,15 +38,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContextRegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MvcRegisterFormApp\\DataContext\\DbContextRegisterForm.cs",
+              "RelativeDocumentMoniker": "MvcRegisterFormApp\\DataContext\\DbContextRegisterForm.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MvcRegisterFormApp\\DataContext\\DbContextRegisterForm.cs",
+              "RelativeToolTip": "MvcRegisterFormApp\\DataContext\\DbContextRegisterForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:56:48.198Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MvcRegisterFormApp\\Views\\RegisterForms\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcRegisterFormApp\\Views\\RegisterForms\\Index.cshtml",
@@ -50,12 +67,11 @@
               "RelativeToolTip": "MvcRegisterFormApp\\Views\\RegisterForms\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T09:19:40.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T09:19:40.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Insert.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MvcRegisterFormApp\\Views\\RegisterForms\\Insert.cshtml",
               "RelativeDocumentMoniker": "MvcRegisterFormApp\\Views\\RegisterForms\\Insert.cshtml",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IRegisterService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MvcRegisterFormApp\\Services\\IRegisterService.cs",
               "RelativeDocumentMoniker": "MvcRegisterFormApp\\Services\\IRegisterService.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "MvcRegisterFormApp\\Services\\IRegisterService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:52:34.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:52:34.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MvcRegisterFormApp\\Program.cs",
               "RelativeDocumentMoniker": "MvcRegisterFormApp\\Program.cs",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "MvcRegisterFormApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:46:29.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:46:29.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RegisterService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MvcRegisterFormApp\\Services\\RegisterService.cs",
               "RelativeDocumentMoniker": "MvcRegisterFormApp\\Services\\RegisterService.cs",
@@ -102,12 +116,11 @@
               "RelativeToolTip": "MvcRegisterFormApp\\Services\\RegisterService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:45:34.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:45:34.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegisterFormsController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\MvcRegisterFormApp\\Controllers\\RegisterFormsController.cs",
               "RelativeDocumentMoniker": "MvcRegisterFormApp\\Controllers\\RegisterFormsController.cs",
@@ -115,8 +128,7 @@
               "RelativeToolTip": "MvcRegisterFormApp\\Controllers\\RegisterFormsController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:36:38.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:36:38.116Z"
             }
           ]
         }
