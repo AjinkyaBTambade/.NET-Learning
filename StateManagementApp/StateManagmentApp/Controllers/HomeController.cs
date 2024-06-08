@@ -16,6 +16,7 @@ namespace StateManagmentApp.Controllers
 
         public IActionResult Index()
         {
+           
             return View();
         }
 

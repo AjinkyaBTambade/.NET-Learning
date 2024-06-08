@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Rendering;
 using StateManagmentApp.Models;
 using System.Text.Json;
+using Microsoft.AspNetCore.Http;
 
 namespace StateManagmentApp.Controllers
 {
@@ -9,6 +10,7 @@ namespace StateManagmentApp.Controllers
     {
         public IActionResult Index()
         {
+            
             return View();
         }
 
@@ -16,6 +18,7 @@ namespace StateManagmentApp.Controllers
         {
             Customer newCustomer = new Customer();
             newCustomer.OrgList = PopulateOrgs();
+           
             return View(newCustomer);
         }
 
