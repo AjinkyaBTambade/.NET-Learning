@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5015EF01-5E30-43FC-B895-CD134AF89D47}|StateManagmentApp\\StateManagmentApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5015EF01-5E30-43FC-B895-CD134AF89D47}|StateManagmentApp\\StateManagmentApp.csproj|solutionrelative:statemanagmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5015EF01-5E30-43FC-B895-CD134AF89D47}|StateManagmentApp\\StateManagmentApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagmentapp\\views\\statemgmt\\getcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5015EF01-5E30-43FC-B895-CD134AF89D47}|StateManagmentApp\\StateManagmentApp.csproj|solutionrelative:statemanagmentapp\\views\\statemgmt\\getcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5015EF01-5E30-43FC-B895-CD134AF89D47}|StateManagmentApp\\StateManagmentApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagmentapp\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5015EF01-5E30-43FC-B895-CD134AF89D47}|StateManagmentApp\\StateManagmentApp.csproj|solutionrelative:statemanagmentapp\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5015EF01-5E30-43FC-B895-CD134AF89D47}|StateManagmentApp\\StateManagmentApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5015EF01-5E30-43FC-B895-CD134AF89D47}|StateManagmentApp\\StateManagmentApp.csproj|solutionrelative:statemanagmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5015EF01-5E30-43FC-B895-CD134AF89D47}|StateManagmentApp\\StateManagmentApp.csproj|c:\\users\\admin\\desktop\\github repo\\.net-learning\\statemanagementapp\\statemanagmentapp\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -94,20 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\StateMgmt\\About.cshtml",
-              "RelativeDocumentMoniker": "StateManagmentApp\\Views\\StateMgmt\\About.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\StateMgmt\\About.cshtml",
-              "RelativeToolTip": "StateManagmentApp\\Views\\StateMgmt\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T15:46:56.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GetCookie.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\StateMgmt\\GetCookie.cshtml",
               "RelativeDocumentMoniker": "StateManagmentApp\\Views\\StateMgmt\\GetCookie.cshtml",
@@ -120,7 +107,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Program.cs",
+              "RelativeDocumentMoniker": "StateManagmentApp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Program.cs",
+              "RelativeToolTip": "StateManagmentApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:08:53.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\StateMgmt\\About.cshtml",
+              "RelativeDocumentMoniker": "StateManagmentApp\\Views\\StateMgmt\\About.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\StateMgmt\\About.cshtml",
+              "RelativeToolTip": "StateManagmentApp\\Views\\StateMgmt\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T15:46:56.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GetQueryString.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\StateMgmt\\GetQueryString.cshtml",
               "RelativeDocumentMoniker": "StateManagmentApp\\Views\\StateMgmt\\GetQueryString.cshtml",
@@ -128,11 +141,12 @@
               "RelativeToolTip": "StateManagmentApp\\Views\\StateMgmt\\GetQueryString.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T11:36:06.343Z"
+              "WhenOpened": "2024-06-08T11:36:06.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GetSession.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\StateMgmt\\GetSession.cshtml",
               "RelativeDocumentMoniker": "StateManagmentApp\\Views\\StateMgmt\\GetSession.cshtml",
@@ -145,20 +159,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StateMgmtController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Controllers\\StateMgmtController.cs",
               "RelativeDocumentMoniker": "StateManagmentApp\\Controllers\\StateMgmtController.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Controllers\\StateMgmtController.cs",
               "RelativeToolTip": "StateManagmentApp\\Controllers\\StateMgmtController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAApAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwB0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T10:40:49.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\StateMgmt\\Index.cshtml",
               "RelativeDocumentMoniker": "StateManagmentApp\\Views\\StateMgmt\\Index.cshtml",
@@ -171,15 +185,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "StateManagmentApp\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "StateManagmentApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADcAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:11:55.182Z"
+              "WhenOpened": "2024-06-07T10:11:55.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,7 +206,8 @@
               "RelativeToolTip": "StateManagmentApp\\Views\\Home\\Services.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T09:08:18.167Z"
+              "WhenOpened": "2024-06-08T09:08:18.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -203,23 +219,12 @@
               "RelativeToolTip": "StateManagmentApp\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T05:49:55.748Z"
+              "WhenOpened": "2024-06-08T05:49:55.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Program.cs",
-              "RelativeDocumentMoniker": "StateManagmentApp\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Program.cs",
-              "RelativeToolTip": "StateManagmentApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T09:08:53.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DisplayData.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\Customers\\DisplayData.cshtml",
               "RelativeDocumentMoniker": "StateManagmentApp\\Views\\Customers\\DisplayData.cshtml",
@@ -227,11 +232,12 @@
               "RelativeToolTip": "StateManagmentApp\\Views\\Customers\\DisplayData.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T10:24:40.617Z"
+              "WhenOpened": "2024-06-07T10:24:40.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\Customers\\Index.cshtml",
               "RelativeDocumentMoniker": "StateManagmentApp\\Views\\Customers\\Index.cshtml",
@@ -239,11 +245,12 @@
               "RelativeToolTip": "StateManagmentApp\\Views\\Customers\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T10:13:48.688Z"
+              "WhenOpened": "2024-06-07T10:13:48.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\Customers\\Register.cshtml",
               "RelativeDocumentMoniker": "StateManagmentApp\\Views\\Customers\\Register.cshtml",
@@ -251,7 +258,8 @@
               "RelativeToolTip": "StateManagmentApp\\Views\\Customers\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T10:13:45.966Z"
+              "WhenOpened": "2024-06-07T10:13:45.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -263,7 +271,8 @@
               "RelativeToolTip": "StateManagmentApp\\Views\\Home\\AboutUs.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T05:55:35.056Z"
+              "WhenOpened": "2024-06-08T05:55:35.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -275,7 +284,8 @@
               "RelativeToolTip": "StateManagmentApp\\Controllers\\CustomersController.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAgwAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:13:56.203Z"
+              "WhenOpened": "2024-06-07T10:13:56.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -285,9 +295,10 @@
               "RelativeDocumentMoniker": "StateManagmentApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\StateManagementApp\\StateManagmentApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "StateManagmentApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T05:41:25.906Z"
+              "WhenOpened": "2024-06-08T05:41:25.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -299,7 +310,8 @@
               "RelativeToolTip": "StateManagmentApp\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:12:57.534Z"
+              "WhenOpened": "2024-06-07T10:12:57.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -311,7 +323,8 @@
               "RelativeToolTip": "StateManagmentApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:12:53.955Z"
+              "WhenOpened": "2024-06-07T10:12:53.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -323,7 +336,8 @@
               "RelativeToolTip": "StateManagmentApp\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T10:12:49.823Z"
+              "WhenOpened": "2024-06-07T10:12:49.823Z",
+              "EditorCaption": ""
             }
           ]
         }
