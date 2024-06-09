@@ -34,6 +34,13 @@ namespace StateManagementApp.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            var userName = HttpContext.Session.GetString("UserName");
+            ViewBag.UserName = userName ?? "Session data not found.";
+            return View();
+        }
+
         //State Management : Query String
         public IActionResult SetQueryString(string userName)
         {
