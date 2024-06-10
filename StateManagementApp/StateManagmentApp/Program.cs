@@ -1,10 +1,20 @@
+using Microsoft.EntityFrameworkCore;
+using StateManagmentApp.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
 
+var provider = builder.Services.BuildServiceProvider();
+var config = provider.GetRequiredService<IConfiguration>();
+builder.Services.AddDbContext<MydbContext>(item => item.UseSqlServer(config.GetConnectionString("dbcs")));
+
+
+
 var app = builder.Build();
+
 
 app.UseSession();
 
