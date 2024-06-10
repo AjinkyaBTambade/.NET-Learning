@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using System.ComponentModel.DataAnnotations;
 namespace StateManagmentApp.Models;
 
 public partial class User
@@ -11,5 +11,6 @@ public partial class User
 
     public string Email { get; set; } = null!;
 
+    [DataType(DataType.Password)]
     public string Password { get; set; } = null!;
 }

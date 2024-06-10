@@ -38,8 +38,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/Github Repo/.NET-Learning/StateManagementApp/StateManagmentApp/Views/Home/AboutUs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+[C:/Users/admin/Desktop/Github Repo/.NET-Learning/StateManagementApp/StateManagmentApp/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/admin/Desktop/Github Repo/.NET-Learning/StateManagementApp/StateManagmentApp/Views/Home/Index.cshtml]
@@ -52,10 +52,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/admin/Desktop/Github Repo/.NET-Learning/StateManagementApp/StateManagmentApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/admin/Desktop/Github Repo/.NET-Learning/StateManagementApp/StateManagmentApp/Views/Home/Services.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/admin/Desktop/Github Repo/.NET-Learning/StateManagementApp/StateManagmentApp/Views/Shared/Error.cshtml]
