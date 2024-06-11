@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Storage</title>
+</head>
+<body>
+
+    <h1>Local Storage</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="text" class="form-control" id="email" name="email">
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" class="form-control" id="password" name="password">
+            </div>
+            <div class="form-group">
+                <button class="btn btn-primary" onclick="storeInLocalStorage()">Remember Me</button>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <label id="lblEmail">Showing Email</label><br />
+            <label id="lblPassword">Showing Password</label>
+            <div class="form-group">
+                <button class="btn btn-secondary" onclick="retrieveFromLocalStorage()">Retrieve from Local Storage</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function storeInLocalStorage() {
+            const email = document.getElementById("email").value;
+            const password = document.getElementById("password").value;
+
+            localStorage.setItem("email", email);
+            localStorage.setItem("password", password);
+        }
+
+        function retrieveFromLocalStorage() {
+            const email = localStorage.getItem("email") || "Email not found";
+            const password = localStorage.getItem("password") || "Password not found";
+
+            document.getElementById("lblEmail").textContent = email;
+            document.getElementById("lblPassword").textContent = password;
+        }
+    </script>
+
+</body>
+</html>

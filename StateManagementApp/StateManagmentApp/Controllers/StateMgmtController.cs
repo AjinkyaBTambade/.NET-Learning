@@ -70,6 +70,14 @@ namespace StateManagementApp.Controllers
             return View();
         }
 
+        public IActionResult LocalStorage()
+        {
+            return View();
+        }
+        public IActionResult SessionStorage()
+        {
+            return View();
+        }
     }
 
 }
