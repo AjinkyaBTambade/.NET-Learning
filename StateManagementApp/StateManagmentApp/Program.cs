@@ -11,7 +11,7 @@ var provider = builder.Services.BuildServiceProvider();
 var config = provider.GetRequiredService<IConfiguration>();
 builder.Services.AddDbContext<MydbContext>(item => item.UseSqlServer(config.GetConnectionString("dbcs")));
 
-
+builder.Services.AddOutputCache();
 
 var app = builder.Build();
 
@@ -28,6 +28,9 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.UseOutputCache();
+
 
 app.MapControllerRoute(
     name: "default",
