@@ -1,0 +1,43 @@
+﻿@model IEnumerable<StateManagmentApp.Models.StudentMark>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Marks Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Student Marks Chart</h1>
+        <canvas id="marksChart" width="400" height="200"></canvas>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var ctx = document.getElementById('marksChart').getContext('2d');
+            var marksChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: @Html.Raw(Json.Serialize(Model.Select(m => m.Name))),
+                    datasets: [{
+                        label: 'Marks',
+                        data: @Html.Raw(Json.Serialize(Model.Select(m => m.Marks))),
+                        backgroundColor: 'rgba(255, 0, 0, 0.2)', 
+                        borderColor: 'rgba(0, 0, 0, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
