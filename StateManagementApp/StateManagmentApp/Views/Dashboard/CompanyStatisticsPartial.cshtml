@@ -1,0 +1,8 @@
+﻿@model List<StateManagmentApp.Models.Company>
+
+<div class="company-statistics">
+    <h3>Company Statistics</h3>
+    <p>Total Companies: @Model.Count</p>
+    <p>Total Employees: @Model.Sum(c => c.NumberOfEmployees)</p>
+    <p>Average Employees per Company: @Model.Average(c => c.NumberOfEmployees)</p>
+</div>

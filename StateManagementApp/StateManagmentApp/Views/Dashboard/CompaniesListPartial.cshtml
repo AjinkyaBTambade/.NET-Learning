@@ -1,0 +1,11 @@
+﻿@model List<StateManagmentApp.Models.Company>
+
+<div class="companies-list">
+    <h3>Companies List</h3>
+    @foreach (var company in Model)
+    {
+        <div>
+            @await Html.PartialAsync("CompanyPartial", company)
+        </div>
+    }
+</div>

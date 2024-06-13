@@ -1,0 +1,16 @@
+﻿@model List<StateManagmentApp.Models.Company>
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1>Dashboard</h1>
+
+
+<div>
+    @await Html.PartialAsync("CompaniesListPartial", Model)
+</div>
+
+<div>
+    @await Html.PartialAsync("CompanyStatisticsPartial", Model)
+</div>
