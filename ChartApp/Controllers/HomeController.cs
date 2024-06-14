@@ -1,5 +1,6 @@
 using ChartApp.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
 namespace ChartApp.Controllers
@@ -19,7 +20,7 @@ namespace ChartApp.Controllers
         }
 
         public IActionResult GetData()
-        { 
+        {
             var data = new[]
             {
                 new { Category = "Seed", Value = 300 },
@@ -29,7 +30,6 @@ namespace ChartApp.Controllers
             };
             return Json(data);
         }
-
 
         public IActionResult Privacy()
         {
