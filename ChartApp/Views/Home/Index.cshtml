@@ -26,12 +26,12 @@
                     // Convert JSON array to DataTable
                     var data = new google.visualization.DataTable();
                     data.addColumn('string', 'Category');
-                    data.addColumn('number', 'Budget');
+                    data.addColumn('number', 'Value');
 
                     apiData.forEach(item => {
                                                 var value = item.value;
-                                                var name = item.name;
-                                                data.addRows([[name, value]]);
+                                                var category = item.category;
+                                                data.addRows([[category, value]]);
                     });
 
                   
