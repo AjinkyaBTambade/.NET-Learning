@@ -3,9 +3,8 @@ using SecureWebApp.Services;
 using SecureWebApp.Models;
 using MailKit.Net.Smtp;
 using MimeKit;
-using MailKit.Security;
 
-namespace JWTAuthentication.Controllers
+namespace SecureWebApp.Controllers
 {
     [ApiController]
     [Route("[controller]")]
@@ -60,7 +59,7 @@ namespace JWTAuthentication.Controllers
 
 
             SmtpClient client = new SmtpClient();
-            client.Connect("smtp.gmail.com", 587, SecureSocketOptions.StartTls);
+            client.Connect("smtp.gmail.com", 587, true);
             client.Authenticate("ravi.tambade@transflower.in", "pwd_here");
 
             client.Send(message);
@@ -70,7 +69,7 @@ namespace JWTAuthentication.Controllers
             return Ok();
         }  
 
-      [HttpPost("send-sms-message")]
+        [HttpPost]  
         public ActionResult SendSMSMessage()  
             {  
                 /* Message message=new Message();
