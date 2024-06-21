@@ -19,10 +19,10 @@ namespace SecureWebApp.Services
         // store in a db with hashed passwords in production applications
         private List<User> _users = new List<User>
         {
-            new User { Id = 1, FirstName = "Ganesh", LastName = "Shinde", Username = "ganesh", Password = "test" },
-            new User { Id = 2, FirstName = "Ankur", LastName = "Prasad", Username = "ankur", Password = "test" },
+            new User { Id = 1, FirstName = "Ajinkya", LastName = "Tambade", Username = "ajinkya", Password = "test" },
+            new User { Id = 2, FirstName = "Bhupendra", LastName = "Walhekar", Username = "bhupendra", Password = "test" },
             new User { Id = 3, FirstName = "Neha", LastName = "Bhor",    Username = "neha", Password = "test" },
-            new User { Id = 4, FirstName = "Vishwambhar", LastName = "Kapre",Username = "vishwambhar", Password = "test" }
+            new User { Id = 4, FirstName = "Shridhar", LastName = "Patil",Username = "shridhar", Password = "test" }
         };
 
         private readonly AppSettings _appSettings;

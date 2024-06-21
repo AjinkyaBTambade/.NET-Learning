@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SecureWebApp.Services;
-using SecureWebApp.Models;
+using WebApi.Services;
+using WebApi.Models;
 using MailKit.Net.Smtp;
 using MimeKit;
 
-namespace SecureWebApp.Controllers
+namespace JWTAuthentication.Controllers
 {
     [ApiController]
     [Route("[controller]")]
