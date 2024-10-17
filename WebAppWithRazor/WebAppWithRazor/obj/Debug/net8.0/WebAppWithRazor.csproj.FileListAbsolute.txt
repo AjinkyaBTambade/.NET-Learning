@@ -60,3 +60,14 @@ E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\obj\Debug\net8.0\re
 E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\obj\Debug\net8.0\WebAppWithRazor.pdb
 E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\obj\Debug\net8.0\WebAppWithRazor.genruntimeconfig.cache
 E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\obj\Debug\net8.0\ref\WebAppWithRazor.dll
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\obj\Debug\net8.0\WebAppWithRazor.csproj.AssemblyReference.cache
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Github Repo\.NET-Learning\WebAppWithRazor\WebAppWithRazor\obj\Debug\net8.0\WebAppWi.D0A83682.Up2Date

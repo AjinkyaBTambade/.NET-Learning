@@ -1,0 +1,37 @@
+@page
+@model WebAppWithRazor.Pages.PeopleModel
+@{
+    ViewData["Title"] = "People Data";
+}
+
+<h1>People's Data</h1>
+
+  <form method="post">
+
+        <input type="number" name="id"/>
+        <input type="text" name="name"/>
+        <input type="number" name="age"/>
+
+       <button type="submit">Add</button>
+
+   </form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model.People) 
+        {
+            <tr>
+                <td>@person.Id</td> 
+                <td>@person.Name</td>
+                <td>@person.Age</td>
+            </tr>
+        }
+    </tbody>
+</table>
